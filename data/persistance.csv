@@ -1,0 +1,219 @@
+#TYPE System.Management.Automation.PSCustomObject
+"technique_id","technique_name","event_id","event_name","link_text","source_name","sec_rec_name"
+"T1098","Account Manipulation","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1067","Bootkit","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1062","Hypervisor","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1019","System Firmware","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1084","Windows Management Instrumentation Event Subscription","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1179","Hooking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1179","Hooking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1179","Hooking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1038","DLL Search Order Hijacking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1038","DLL Search Order Hijacking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1038","DLL Search Order Hijacking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1098","Account Manipulation","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1136","Create Account","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1133","External Remote Services","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4625","An account failed to log on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4625","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4625","An account failed to log on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4625","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1131","Authentication Package","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1042","Change Default File Association","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1031","Modify Existing Service","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1128","Netsh Helper DLL","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1137","Office Application Startup","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1060","Registry Run Keys / Start Folder","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1180","Screensaver","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1101","Security Support Provider","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1004","Winlogon Helper DLL","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1015","Accessibility Features","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1015","Accessibility Features","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1182","AppCert DLLs","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1182","AppCert DLLs","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1103","AppInit DLLs","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1103","AppInit DLLs","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1138","Application Shimming","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1050","New Service","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1013","Port Monitors","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1058","Service Registry Permissions Weakness","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1138","Application Shimming","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1050","New Service","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1013","Port Monitors","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1058","Service Registry Permissions Weakness","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1177","LSASS Driver","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1053","Scheduled Task","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1177","LSASS Driver","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1053","Scheduled Task","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1053","Scheduled Task","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1037","Logon Scripts","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1037","Logon Scripts","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1176","Browser Extensions","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1031","Modify Existing Service","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1137","Office Application Startup","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1060","Registry Run Keys / Start Folder","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1180","Screensaver","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1023","Shortcut Modification","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1209","Time Providers","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1004","Winlogon Helper DLL","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1015","Accessibility Features","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1015","Accessibility Features","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1044","File System Permissions Weakness","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1034","Path Interception","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1013","Port Monitors","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1044","File System Permissions Weakness","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1034","Path Interception","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1013","Port Monitors","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1179","Hooking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1179","Hooking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1179","Hooking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1197","BITS Jobs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1122","Component Object Model Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1197","BITS Jobs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1122","Component Object Model Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1177","LSASS Driver","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1053","Scheduled Task","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1177","LSASS Driver","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1053","Scheduled Task","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1053","Scheduled Task","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1037","Logon Scripts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1037","Logon Scripts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1176","Browser Extensions","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1042","Change Default File Association","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1136","Create Account","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1031","Modify Existing Service","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1128","Netsh Helper DLL","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1137","Office Application Startup","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1180","Screensaver","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1023","Shortcut Modification","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1209","Time Providers","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1004","Winlogon Helper DLL","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1015","Accessibility Features","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1015","Accessibility Features","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1182","AppCert DLLs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1182","AppCert DLLs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1103","AppInit DLLs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1103","AppInit DLLs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1138","Application Shimming","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1044","File System Permissions Weakness","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1050","New Service","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1034","Path Interception","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1013","Port Monitors","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1058","Service Registry Permissions Weakness","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1138","Application Shimming","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1044","File System Permissions Weakness","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1050","New Service","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1034","Path Interception","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1013","Port Monitors","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1058","Service Registry Permissions Weakness","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1100","Web Shell","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1176","Browser Extensions","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1084","Windows Management Instrumentation Event Subscription","5861",,,,
+"T1031","Modify Existing Service","7040",,,,
+"T1044","File System Permissions Weakness","7040",,,,
+"T1058","Service Registry Permissions Weakness","7040",,,,
+"T1044","File System Permissions Weakness","7040",,,,
+"T1058","Service Registry Permissions Weakness","7040",,,,
+"T1044","File System Permissions Weakness","7045",,,,
+"T1058","Service Registry Permissions Weakness","7045",,,,
+"T1044","File System Permissions Weakness","7045",,,,
+"T1058","Service Registry Permissions Weakness","7045",,,,
+"T1034","Path Interception","8000",,,,
+"T1034","Path Interception","8000",,,,
+"T1034","Path Interception","8001",,,,
+"T1034","Path Interception","8001",,,,
+"T1034","Path Interception","8002",,,,
+"T1034","Path Interception","8002",,,,
+"T1034","Path Interception","8003",,,,
+"T1034","Path Interception","8003",,,,
+"T1034","Path Interception","8004",,,,
+"T1034","Path Interception","8004",,,,
+"T1034","Path Interception","8005",,,,
+"T1034","Path Interception","8005",,,,
+"T1034","Path Interception","8006",,,,
+"T1034","Path Interception","8006",,,,
+"T1034","Path Interception","8007",,,,
+"T1034","Path Interception","8007",,,,
+"T1034","Path Interception","8008",,,,
+"T1034","Path Interception","8008",,,,
+"T1034","Path Interception","8009",,,,
+"T1034","Path Interception","8009",,,,
+"T1034","Path Interception","8010",,,,
+"T1034","Path Interception","8010",,,,
+"T1034","Path Interception","8011",,,,
+"T1034","Path Interception","8011",,,,
+"T1034","Path Interception","8012",,,,
+"T1034","Path Interception","8012",,,,
+"T1034","Path Interception","8013",,,,
+"T1034","Path Interception","8013",,,,
+"T1034","Path Interception","8014",,,,
+"T1034","Path Interception","8014",,,,
+"T1034","Path Interception","8015",,,,
+"T1034","Path Interception","8015",,,,
+"T1034","Path Interception","8016",,,,
+"T1034","Path Interception","8016",,,,
+"T1034","Path Interception","8017",,,,
+"T1034","Path Interception","8017",,,,
+"T1034","Path Interception","8018",,,,
+"T1034","Path Interception","8018",,,,
+"T1034","Path Interception","8019",,,,
+"T1034","Path Interception","8019",,,,
+"T1034","Path Interception","8020",,,,
+"T1034","Path Interception","8020",,,,
+"T1034","Path Interception","8021",,,,
+"T1034","Path Interception","8021",,,,
+"T1034","Path Interception","8022",,,,
+"T1034","Path Interception","8022",,,,
+"T1034","Path Interception","8023",,,,
+"T1034","Path Interception","8023",,,,
+"T1034","Path Interception","8024",,,,
+"T1034","Path Interception","8024",,,,
+"T1034","Path Interception","8025",,,,
+"T1034","Path Interception","8025",,,,
+"T1034","Path Interception","8026",,,,
+"T1034","Path Interception","8026",,,,
+"T1034","Path Interception","8027",,,,
+"T1034","Path Interception","8027",,,,

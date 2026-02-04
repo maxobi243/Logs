@@ -1,0 +1,464 @@
+#TYPE System.Management.Automation.PSCustomObject
+"technique_id","technique_name","event_id","event_name","link_text","source_name","sec_rec_name"
+"T1223","Compiled HTML File","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1220","XSL Script Processing","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1181","Extra Window Memory Injection","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1116","Code Signing","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1223","Compiled HTML File","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1140","Deobfuscate/Decode Files or Information","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1089","Disabling Security Tools ","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1181","Extra Window Memory Injection","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1222","File Permissions Modification","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1220","XSL Script Processing","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1102","Web Service","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1102","Web Service","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1202","Indirect Command Execution","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1118","InstallUtil","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1170","Mshta","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1121","Regsvcs/Regasm","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1118","InstallUtil","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1170","Mshta","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1121","Regsvcs/Regasm","1","Process creation","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1073","DLL Side-Loading","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1202","Indirect Command Execution","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1118","InstallUtil","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1170","Mshta","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1121","Regsvcs/Regasm","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1117","Regsvr32","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1038","DLL Search Order Hijacking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1118","InstallUtil","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1170","Mshta","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1121","Regsvcs/Regasm","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1117","Regsvr32","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1038","DLL Search Order Hijacking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1038","DLL Search Order Hijacking","7","Image loaded","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","Monitor"
+"T1006","File System Logical Offsets","200",,,,
+"T1006","File System Logical Offsets","201",,,,
+"T1006","File System Logical Offsets","202",,,,
+"T1006","File System Logical Offsets","203",,,,
+"T1006","File System Logical Offsets","204",,,,
+"T1006","File System Logical Offsets","205",,,,
+"T1006","File System Logical Offsets","206",,,,
+"T1006","File System Logical Offsets","207",,,,
+"T1006","File System Logical Offsets","208",,,,
+"T1006","File System Logical Offsets","209",,,,
+"T1006","File System Logical Offsets","210",,,,
+"T1006","File System Logical Offsets","211",,,,
+"T1006","File System Logical Offsets","212",,,,
+"T1006","File System Logical Offsets","213",,,,
+"T1006","File System Logical Offsets","214",,,,
+"T1006","File System Logical Offsets","215",,,,
+"T1006","File System Logical Offsets","216",,,,
+"T1006","File System Logical Offsets","217",,,,
+"T1006","File System Logical Offsets","218",,,,
+"T1006","File System Logical Offsets","219",,,,
+"T1006","File System Logical Offsets","220",,,,
+"T1006","File System Logical Offsets","221",,,,
+"T1006","File System Logical Offsets","222",,,,
+"T1006","File System Logical Offsets","223",,,,
+"T1006","File System Logical Offsets","224",,,,
+"T1006","File System Logical Offsets","225",,,,
+"T1006","File System Logical Offsets","226",,,,
+"T1006","File System Logical Offsets","227",,,,
+"T1006","File System Logical Offsets","228",,,,
+"T1006","File System Logical Offsets","229",,,,
+"T1006","File System Logical Offsets","230",,,,
+"T1006","File System Logical Offsets","231",,,,
+"T1006","File System Logical Offsets","232",,,,
+"T1006","File System Logical Offsets","233",,,,
+"T1006","File System Logical Offsets","234",,,,
+"T1006","File System Logical Offsets","235",,,,
+"T1006","File System Logical Offsets","236",,,,
+"T1006","File System Logical Offsets","237",,,,
+"T1006","File System Logical Offsets","238",,,,
+"T1006","File System Logical Offsets","239",,,,
+"T1006","File System Logical Offsets","240",,,,
+"T1006","File System Logical Offsets","241",,,,
+"T1006","File System Logical Offsets","242",,,,
+"T1006","File System Logical Offsets","243",,,,
+"T1006","File System Logical Offsets","244",,,,
+"T1006","File System Logical Offsets","245",,,,
+"T1006","File System Logical Offsets","246",,,,
+"T1006","File System Logical Offsets","247",,,,
+"T1006","File System Logical Offsets","248",,,,
+"T1006","File System Logical Offsets","249",,,,
+"T1006","File System Logical Offsets","250",,,,
+"T1006","File System Logical Offsets","251",,,,
+"T1006","File System Logical Offsets","252",,,,
+"T1006","File System Logical Offsets","253",,,,
+"T1006","File System Logical Offsets","254",,,,
+"T1006","File System Logical Offsets","255","Error","https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon","Sysmon","No Recommendation"
+"T1006","File System Logical Offsets","256",,,,
+"T1006","File System Logical Offsets","257",,,,
+"T1006","File System Logical Offsets","258",,,,
+"T1006","File System Logical Offsets","259",,,,
+"T1006","File System Logical Offsets","260",,,,
+"T1006","File System Logical Offsets","261",,,,
+"T1006","File System Logical Offsets","262",,,,
+"T1006","File System Logical Offsets","263",,,,
+"T1006","File System Logical Offsets","264",,,,
+"T1006","File System Logical Offsets","265",,,,
+"T1006","File System Logical Offsets","266",,,,
+"T1006","File System Logical Offsets","267",,,,
+"T1006","File System Logical Offsets","268",,,,
+"T1006","File System Logical Offsets","269",,,,
+"T1006","File System Logical Offsets","270",,,,
+"T1006","File System Logical Offsets","271",,,,
+"T1006","File System Logical Offsets","272",,,,
+"T1006","File System Logical Offsets","273",,,,
+"T1006","File System Logical Offsets","274",,,,
+"T1006","File System Logical Offsets","275",,,,
+"T1006","File System Logical Offsets","276",,,,
+"T1006","File System Logical Offsets","277",,,,
+"T1006","File System Logical Offsets","278",,,,
+"T1006","File System Logical Offsets","279",,,,
+"T1006","File System Logical Offsets","280",,,,
+"T1006","File System Logical Offsets","281",,,,
+"T1006","File System Logical Offsets","282",,,,
+"T1006","File System Logical Offsets","283",,,,
+"T1006","File System Logical Offsets","284",,,,
+"T1006","File System Logical Offsets","285",,,,
+"T1006","File System Logical Offsets","286",,,,
+"T1006","File System Logical Offsets","287",,,,
+"T1006","File System Logical Offsets","288",,,,
+"T1006","File System Logical Offsets","289",,,,
+"T1006","File System Logical Offsets","290",,,,
+"T1006","File System Logical Offsets","291",,,,
+"T1006","File System Logical Offsets","292",,,,
+"T1006","File System Logical Offsets","293",,,,
+"T1006","File System Logical Offsets","294",,,,
+"T1006","File System Logical Offsets","295",,,,
+"T1006","File System Logical Offsets","296",,,,
+"T1006","File System Logical Offsets","297",,,,
+"T1006","File System Logical Offsets","298",,,,
+"T1006","File System Logical Offsets","299",,,,
+"T1006","File System Logical Offsets","300",,,,
+"T1006","File System Logical Offsets","301",,,,
+"T1006","File System Logical Offsets","302",,,,
+"T1006","File System Logical Offsets","303",,,,
+"T1006","File System Logical Offsets","304",,,,
+"T1006","File System Logical Offsets","305",,,,
+"T1006","File System Logical Offsets","306",,,,
+"T1006","File System Logical Offsets","307",,,,
+"T1006","File System Logical Offsets","308",,,,
+"T1006","File System Logical Offsets","309",,,,
+"T1006","File System Logical Offsets","310",,,,
+"T1006","File System Logical Offsets","311",,,,
+"T1006","File System Logical Offsets","312",,,,
+"T1006","File System Logical Offsets","313",,,,
+"T1006","File System Logical Offsets","314",,,,
+"T1006","File System Logical Offsets","315",,,,
+"T1006","File System Logical Offsets","316",,,,
+"T1006","File System Logical Offsets","317",,,,
+"T1006","File System Logical Offsets","318",,,,
+"T1006","File System Logical Offsets","319",,,,
+"T1006","File System Logical Offsets","320",,,,
+"T1006","File System Logical Offsets","321",,,,
+"T1006","File System Logical Offsets","322",,,,
+"T1006","File System Logical Offsets","323",,,,
+"T1006","File System Logical Offsets","324",,,,
+"T1006","File System Logical Offsets","325",,,,
+"T1006","File System Logical Offsets","326",,,,
+"T1006","File System Logical Offsets","327",,,,
+"T1006","File System Logical Offsets","328",,,,
+"T1006","File System Logical Offsets","329",,,,
+"T1006","File System Logical Offsets","330",,,,
+"T1006","File System Logical Offsets","331",,,,
+"T1006","File System Logical Offsets","332",,,,
+"T1006","File System Logical Offsets","333",,,,
+"T1006","File System Logical Offsets","334",,,,
+"T1006","File System Logical Offsets","335",,,,
+"T1006","File System Logical Offsets","336",,,,
+"T1006","File System Logical Offsets","337",,,,
+"T1006","File System Logical Offsets","338",,,,
+"T1006","File System Logical Offsets","339",,,,
+"T1006","File System Logical Offsets","340",,,,
+"T1006","File System Logical Offsets","341",,,,
+"T1006","File System Logical Offsets","342",,,,
+"T1006","File System Logical Offsets","343",,,,
+"T1006","File System Logical Offsets","344",,,,
+"T1006","File System Logical Offsets","345",,,,
+"T1006","File System Logical Offsets","346",,,,
+"T1006","File System Logical Offsets","347",,,,
+"T1006","File System Logical Offsets","348",,,,
+"T1006","File System Logical Offsets","349",,,,
+"T1006","File System Logical Offsets","350",,,,
+"T1006","File System Logical Offsets","351",,,,
+"T1006","File System Logical Offsets","352",,,,
+"T1006","File System Logical Offsets","353",,,,
+"T1006","File System Logical Offsets","354",,,,
+"T1006","File System Logical Offsets","355",,,,
+"T1006","File System Logical Offsets","356",,,,
+"T1006","File System Logical Offsets","357",,,,
+"T1006","File System Logical Offsets","358",,,,
+"T1006","File System Logical Offsets","359",,,,
+"T1006","File System Logical Offsets","360",,,,
+"T1006","File System Logical Offsets","361",,,,
+"T1006","File System Logical Offsets","362",,,,
+"T1006","File System Logical Offsets","363",,,,
+"T1006","File System Logical Offsets","364",,,,
+"T1006","File System Logical Offsets","365",,,,
+"T1006","File System Logical Offsets","366",,,,
+"T1006","File System Logical Offsets","367",,,,
+"T1006","File System Logical Offsets","368",,,,
+"T1006","File System Logical Offsets","369",,,,
+"T1006","File System Logical Offsets","370",,,,
+"T1006","File System Logical Offsets","371",,,,
+"T1006","File System Logical Offsets","372",,,,
+"T1006","File System Logical Offsets","373",,,,
+"T1006","File System Logical Offsets","374",,,,
+"T1006","File System Logical Offsets","375",,,,
+"T1006","File System Logical Offsets","376",,,,
+"T1006","File System Logical Offsets","377",,,,
+"T1006","File System Logical Offsets","378",,,,
+"T1006","File System Logical Offsets","379",,,,
+"T1006","File System Logical Offsets","380",,,,
+"T1006","File System Logical Offsets","381",,,,
+"T1006","File System Logical Offsets","382",,,,
+"T1006","File System Logical Offsets","383",,,,
+"T1006","File System Logical Offsets","384",,,,
+"T1006","File System Logical Offsets","385",,,,
+"T1006","File System Logical Offsets","386",,,,
+"T1006","File System Logical Offsets","387",,,,
+"T1006","File System Logical Offsets","388",,,,
+"T1006","File System Logical Offsets","389",,,,
+"T1006","File System Logical Offsets","390",,,,
+"T1006","File System Logical Offsets","391",,,,
+"T1006","File System Logical Offsets","392",,,,
+"T1006","File System Logical Offsets","393",,,,
+"T1006","File System Logical Offsets","394",,,,
+"T1006","File System Logical Offsets","395",,,,
+"T1006","File System Logical Offsets","396",,,,
+"T1006","File System Logical Offsets","397",,,,
+"T1006","File System Logical Offsets","398",,,,
+"T1006","File System Logical Offsets","399",,,,
+"T1006","File System Logical Offsets","400",,,,
+"T1006","File System Logical Offsets","401",,,,
+"T1006","File System Logical Offsets","402",,,,
+"T1006","File System Logical Offsets","403",,,,
+"T1006","File System Logical Offsets","404",,,,
+"T1006","File System Logical Offsets","405",,,,
+"T1006","File System Logical Offsets","406",,,,
+"T1006","File System Logical Offsets","407",,,,
+"T1006","File System Logical Offsets","408",,,,
+"T1006","File System Logical Offsets","409",,,,
+"T1006","File System Logical Offsets","410",,,,
+"T1006","File System Logical Offsets","411",,,,
+"T1006","File System Logical Offsets","412",,,,
+"T1006","File System Logical Offsets","413",,,,
+"T1006","File System Logical Offsets","414",,,,
+"T1006","File System Logical Offsets","415",,,,
+"T1006","File System Logical Offsets","416",,,,
+"T1006","File System Logical Offsets","417",,,,
+"T1006","File System Logical Offsets","418",,,,
+"T1006","File System Logical Offsets","419",,,,
+"T1006","File System Logical Offsets","420",,,,
+"T1006","File System Logical Offsets","421",,,,
+"T1006","File System Logical Offsets","422",,,,
+"T1006","File System Logical Offsets","423",,,,
+"T1006","File System Logical Offsets","424",,,,
+"T1006","File System Logical Offsets","425",,,,
+"T1006","File System Logical Offsets","426",,,,
+"T1006","File System Logical Offsets","427",,,,
+"T1006","File System Logical Offsets","428",,,,
+"T1006","File System Logical Offsets","429",,,,
+"T1006","File System Logical Offsets","430",,,,
+"T1006","File System Logical Offsets","431",,,,
+"T1006","File System Logical Offsets","432",,,,
+"T1006","File System Logical Offsets","433",,,,
+"T1006","File System Logical Offsets","434",,,,
+"T1006","File System Logical Offsets","435",,,,
+"T1006","File System Logical Offsets","436",,,,
+"T1006","File System Logical Offsets","437",,,,
+"T1006","File System Logical Offsets","438",,,,
+"T1006","File System Logical Offsets","439",,,,
+"T1006","File System Logical Offsets","440",,,,
+"T1006","File System Logical Offsets","441",,,,
+"T1006","File System Logical Offsets","442",,,,
+"T1006","File System Logical Offsets","443",,,,
+"T1006","File System Logical Offsets","444",,,,
+"T1006","File System Logical Offsets","445",,,,
+"T1006","File System Logical Offsets","446",,,,
+"T1006","File System Logical Offsets","447",,,,
+"T1006","File System Logical Offsets","448",,,,
+"T1006","File System Logical Offsets","449",,,,
+"T1006","File System Logical Offsets","450",,,,
+"T1006","File System Logical Offsets","451",,,,
+"T1006","File System Logical Offsets","452",,,,
+"T1006","File System Logical Offsets","453",,,,
+"T1006","File System Logical Offsets","454",,,,
+"T1006","File System Logical Offsets","455",,,,
+"T1006","File System Logical Offsets","456",,,,
+"T1006","File System Logical Offsets","457",,,,
+"T1006","File System Logical Offsets","458",,,,
+"T1006","File System Logical Offsets","459",,,,
+"T1006","File System Logical Offsets","460",,,,
+"T1006","File System Logical Offsets","461",,,,
+"T1006","File System Logical Offsets","462",,,,
+"T1006","File System Logical Offsets","463",,,,
+"T1006","File System Logical Offsets","464",,,,
+"T1006","File System Logical Offsets","465",,,,
+"T1006","File System Logical Offsets","466",,,,
+"T1006","File System Logical Offsets","467",,,,
+"T1006","File System Logical Offsets","468",,,,
+"T1006","File System Logical Offsets","469",,,,
+"T1006","File System Logical Offsets","470",,,,
+"T1006","File System Logical Offsets","471",,,,
+"T1006","File System Logical Offsets","472",,,,
+"T1006","File System Logical Offsets","473",,,,
+"T1006","File System Logical Offsets","474",,,,
+"T1006","File System Logical Offsets","475",,,,
+"T1006","File System Logical Offsets","476",,,,
+"T1006","File System Logical Offsets","477",,,,
+"T1006","File System Logical Offsets","478",,,,
+"T1006","File System Logical Offsets","479",,,,
+"T1006","File System Logical Offsets","480",,,,
+"T1006","File System Logical Offsets","481",,,,
+"T1006","File System Logical Offsets","482",,,,
+"T1006","File System Logical Offsets","483",,,,
+"T1006","File System Logical Offsets","484",,,,
+"T1006","File System Logical Offsets","485",,,,
+"T1006","File System Logical Offsets","486",,,,
+"T1006","File System Logical Offsets","487",,,,
+"T1006","File System Logical Offsets","488",,,,
+"T1006","File System Logical Offsets","489",,,,
+"T1006","File System Logical Offsets","490",,,,
+"T1006","File System Logical Offsets","491",,,,
+"T1006","File System Logical Offsets","492",,,,
+"T1006","File System Logical Offsets","493",,,,
+"T1006","File System Logical Offsets","494",,,,
+"T1006","File System Logical Offsets","495",,,,
+"T1006","File System Logical Offsets","496",,,,
+"T1006","File System Logical Offsets","497",,,,
+"T1006","File System Logical Offsets","498",,,,
+"T1006","File System Logical Offsets","499",,,,
+"T1006","File System Logical Offsets","500",,,,
+"T1211","Exploitation for Defense Evasion","1000",,,,
+"T1211","Exploitation for Defense Evasion","1001",,,,
+"T1006","File System Logical Offsets","4100",,,,
+"T1006","File System Logical Offsets","4101",,,,
+"T1006","File System Logical Offsets","4102",,,,
+"T1006","File System Logical Offsets","4103",,,,
+"T1006","File System Logical Offsets","4104",,,,
+"T1207","DCShadow","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1126","Network Share Connection Removal","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1088","Bypass User Account Control","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1088","Bypass User Account Control","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1130","Install Root Certificate","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1112","Modify Registry","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1196","Control Panel Items","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1117","Regsvr32","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1055","Process Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1196","Control Panel Items","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1117","Regsvr32","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1055","Process Injection","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1009","Binary Padding","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1211","Exploitation for Defense Evasion","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1107","File Deletion","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1006","File System Logical Offsets","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1070","Indicator Removal on Host","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1036","Masquerading","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1112","Modify Registry","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1096","NTFS File Attributes","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1027","Obfuscated Files or Information","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1099","Timestomp","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1085","Rundll32","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1064","Scripting","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1055","Process Injection","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1085","Rundll32","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1064","Scripting","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1055","Process Injection","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1009","Binary Padding","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1073","DLL Side-Loading","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1211","Exploitation for Defense Evasion","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1107","File Deletion","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1006","File System Logical Offsets","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1054","Indicator Blocking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1066","Indicator Removal from Tools","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1070","Indicator Removal on Host","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1202","Indirect Command Execution","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1036","Masquerading","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1112","Modify Registry","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1126","Network Share Connection Removal","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1027","Obfuscated Files or Information","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1186","Process Doppelg?nging","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1093","Process Hollowing","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1014","Rootkit","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1099","Timestomp","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1191","CMSTP","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1196","Control Panel Items","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1118","InstallUtil","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1170","Mshta","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1121","Regsvcs/Regasm","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1117","Regsvr32","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1085","Rundll32","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1064","Scripting","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1218","Signed Binary Proxy Execution","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1216","Signed Script Proxy Execution","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1127","Trusted Developer Utilities","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1197","BITS Jobs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1122","Component Object Model Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1134","Access Token Manipulation","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1088","Bypass User Account Control","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1055","Process Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1191","CMSTP","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1196","Control Panel Items","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1118","InstallUtil","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1170","Mshta","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1121","Regsvcs/Regasm","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1117","Regsvr32","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1085","Rundll32","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1064","Scripting","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1218","Signed Binary Proxy Execution","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1216","Signed Script Proxy Execution","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1127","Trusted Developer Utilities","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1197","BITS Jobs","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1109","Component Firmware","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1122","Component Object Model Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1158","Hidden Files and Directories","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1198","SIP and Trust Provider Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1038","DLL Search Order Hijacking","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1183","Image File Execution Options Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1134","Access Token Manipulation","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1088","Bypass User Account Control","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1055","Process Injection","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1126","Network Share Connection Removal","5140","A network share object was accessed.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5140","Advanced Audit Logs","Monitor"
+"T1126","Network Share Connection Removal","5145","A network share object was checked to see whether client can be granted desired access.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5145","Advanced Audit Logs","Monitor"
+"T1073","DLL Side-Loading","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1066","Indicator Removal from Tools","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1027","Obfuscated Files or Information","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
+"T1108","Redundant Access","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"

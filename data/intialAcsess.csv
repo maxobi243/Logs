@@ -1,0 +1,28 @@
+#TYPE System.Management.Automation.PSCustomObject
+"technique_id","technique_name","event_id","event_name","link_text","source_name","sec_rec_name"
+"T1190","Exploit Public-Facing Application","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1200","Hardware Additions","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1192","Spearphishing Link","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1194","Spearphishing via Service","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1199","Trusted Relationship","-1","This auditing subcategory does not contain any events. It is intended for future use.","-","No Source","No Recommendation"
+"T1091","Replication Through Removable Media","219",,,,
+"T1091","Replication Through Removable Media","219",,,,
+"T1091","Replication Through Removable Media","421",,,,
+"T1091","Replication Through Removable Media","421",,,,
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4624","An account was successfully logged on.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624","Advanced Audit Logs","Monitor"
+"T1091","Replication Through Removable Media","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1091","Replication Through Removable Media","4657","A registry value was modified.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4657","Advanced Audit Logs","Monitor"
+"T1193","Spearphishing Attachment","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1195","Supply Chain Compromise","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1091","Replication Through Removable Media","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1091","Replication Through Removable Media","4663","An attempt was made to access an object.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1078","Valid Accounts","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1189","Drive-by Compromise","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1193","Spearphishing Attachment","4688","A new process has been created.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688","Advanced Audit Logs","Monitor"
+"T1189","Drive-by Compromise","5156","The Windows Filtering Platform has permitted a connection.","https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5156","Advanced Audit Logs","Monitor"
