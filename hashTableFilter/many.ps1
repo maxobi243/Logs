@@ -1,7 +1,7 @@
 
-param($name)
+param($name, $csvFile)
 
-Import-Csv ..\20260204104311EventList.csv | Where-Object {
+Import-Csv $csvFile | Where-Object {
     $_.technique_name -eq $name
 } | Select-Object -ExpandProperty event_id | ForEach-Object {
     $ids = $_
